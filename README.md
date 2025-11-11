@@ -1,4 +1,4 @@
-This project "Sentiment analysis on IMDB Reviews" ties in my passion for psychology and Computer Science and my desire to learn as I navigate towards different fields. 
+This project "Sentiment analysis on IMDB Reviews" ties in my passion for Psychology and Computer Science and my desire to learn as I navigate towards different fields. 
 I built this project by choosing the dataset "IMDB Dataset of 50k Movie Reviews" on Kaggle (which has 25,000 postivie and 25,000 negative reviews), cleaned the data, prepared text for the neural network and built the LSTM model.
 
 
